@@ -9,9 +9,8 @@ import net.glxn.qrgen.image.ImageType;
 import java.io.ByteArrayOutputStream;
 import java.io.File;
 import java.io.FileOutputStream;
-import java.util.Scanner;
 
-public class Main {
+public class QRgenerator {
 
     public static void main(String[] args) {
 
